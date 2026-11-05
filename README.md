@@ -1,6 +1,6 @@
 # CompatLab
 
-> Concept: Reproduce. Inspect. Compare.
+A test bench for launching emulated devices and comparing software behaviour across machine profiles.
 
 An ACRYL Blends blueprint for the **Emulation** category (`acrylblends.compatlab`, category 92 of 100).
 
